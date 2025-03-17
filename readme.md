@@ -79,6 +79,7 @@
 <br/>
 
 ## Top Open Source -
+[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=rrykarlsefni&repo=Inoue-orihime&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rrykarlsefni/InoueBaseBot)
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=rrykarlsefni&repo=Inoue-orihime&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rrykarlsefni/Inoue-orihime)
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=rrykarlsefni&repo=rry&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rrykarlsefni/rry)
 [![rrykarlsefni Readme](https://github-readme-stats.vercel.app/api/pin/?username=rrykarlsefni&repo=rrykarlsefni&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rrykarlsefni/rrykarlsefni)
